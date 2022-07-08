@@ -1,0 +1,26 @@
+[
+  {
+    "model": "product.product",
+    "pk": 1,
+    "fields": {
+      "name": "Rear Light",
+      "price": "100.00",
+      "quantity": 20,
+      "brand_name": "Test Brand",
+      "manufacture_number": "1234GTH",
+      "category": 1
+    }
+  },
+  {
+    "model": "product.product",
+    "pk": 2,
+    "fields": {
+      "name": "Test Seat",
+      "price": "130.00",
+      "quantity": 13,
+      "brand_name": "Brand1",
+      "manufacture_number": "5679BGT",
+      "category": 2
+    }
+  }
+]

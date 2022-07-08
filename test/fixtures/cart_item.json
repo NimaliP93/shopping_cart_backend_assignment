@@ -1,0 +1,7 @@
+[
+  {
+    "model": "product.shoppingcartitem",
+    "pk": 1,
+    "fields": {"cart": 1, "product": 1, "quantity": 3}
+  }
+]

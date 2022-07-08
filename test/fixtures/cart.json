@@ -1,0 +1,7 @@
+[
+  {
+    "model": "product.shoppingcart",
+    "pk": 1,
+    "fields": {"token_id": 1234}
+  }
+]
